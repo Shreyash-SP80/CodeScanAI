@@ -1,6 +1,15 @@
 # CodeScanAi - AI-Powered Code Review Assistant 🤖
 
-![Banner](https://via.placeholder.com/800x200/0D1117/FFFFFF?text=CodeSage+AI+Code+Review+Assistant)
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 CodeSage is an intelligent web application that provides AI-powered code reviews to help developers write better, cleaner, and more efficient code.  
 It analyzes your code using advanced AI and provides detailed feedback, suggestions, and improvements.
@@ -150,4 +159,5 @@ npm run dev
 | axios                    | HTTP client for making API requests               |
 | react-markdown           | Renders Markdown content                          |
 | rehype-highlight         | Syntax highlighting for Markdown code blocks      |
+
 
