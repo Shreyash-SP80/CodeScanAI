@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Code Review Assistant</h1>
+        <h1>CodeScanAi</h1>
         <p>Get AI-powered feedback on your code</p>
       </header>
       
