@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-CodeSage is an intelligent web application that provides AI-powered code reviews to help developers write better, cleaner, and more efficient code.  
+CodeScanAi is an intelligent web application that provides AI-powered code reviews to help developers write better, cleaner, and more efficient code.  
 It analyzes your code using advanced AI and provides detailed feedback, suggestions, and improvements.
 
 ---
@@ -159,5 +159,6 @@ npm run dev
 | axios                    | HTTP client for making API requests               |
 | react-markdown           | Renders Markdown content                          |
 | rehype-highlight         | Syntax highlighting for Markdown code blocks      |
+
 
 
