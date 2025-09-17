@@ -14,7 +14,7 @@ function createAIInstance(apiKey = null) {
     apiKey: effectiveApiKey,
   });
 }
-
+ 
 const model = "gemini-2.5-flash";
 
 // function to generate response from ai
