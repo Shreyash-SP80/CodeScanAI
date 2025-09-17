@@ -6,7 +6,7 @@ const app = express(); // creating express app
 
 // CORS configuration - allow all origins for now
 app.use(cors()); // using cors so frontend can talk with backend
-
+ 
 // Body parsing middleware
 app.use(express.json({ limit: '10mb' })); // to read json body data with max 10mb size
 
