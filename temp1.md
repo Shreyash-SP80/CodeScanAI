@@ -9,7 +9,7 @@ reusable and harder to understand.
 ```javascript
 function sum() {
 return a + b; // 'a' and 'b' are not defined here!
-}
+} 
 
 // If you try to call it like this:
 // console.log(sum()); // This would result in a ReferenceError: a is not defined
