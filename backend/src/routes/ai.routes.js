@@ -6,3 +6,4 @@ const router = express.Router() // creating router object
 router.post("/get-review", aiController.getReview)
 
 module.exports = router // exporting router so it can be used in app.js
+ 
